@@ -166,8 +166,7 @@ IE ← 8Ah         ; EA=1, ET0=1, ET1=1
 star-delta-motor-starter-8051/
 │
 ├── main.asm                  # Assembly source code (8051)
-├── diagrama_unifilar.png     # Single-line (unifilar) circuit diagram
-├── estrela_triangulo.png     # Star vs delta winding diagram
+├── report.pdf                # Project full report
 └── README.md                 # This file
 ```
 
